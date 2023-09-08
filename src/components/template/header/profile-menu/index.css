@@ -1,0 +1,17 @@
+.contactSegment {
+  width: "fit-content";
+  margin: 0 auto;
+  color: black;
+}
+
+.outlineBtn {
+  --border-width: 1px;
+  --border-color: #219653;
+  text-transform: none;
+  font-size: 12px !important;
+}
+.btn-right {
+  color: #219653;
+  font-size: 15px;
+  height: 40px;
+}

@@ -1,0 +1,29 @@
+.hubSegmentLable {
+  width: "fit-content";
+  margin: 0 auto;
+  color: black;
+}
+
+.register-page.web {
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+.register-page.mobile {
+  padding: 30px 15px;
+  height: 70vh;
+  overflow-y: auto;
+}
+
+.contactSegment {
+  width: "fit-content";
+  margin: 0 auto;
+  color: black;
+}
+.profile-page-container {
+  margin-top: var(--ion-safe-area-top);
+  display: flex;
+}
